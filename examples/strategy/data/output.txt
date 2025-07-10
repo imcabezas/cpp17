@@ -1,0 +1,12 @@
+27 odd
+8 even
+13 odd
+23 odd
+1024 even
+1025 odd
+1670 even
+4 even
+33 odd
+97 odd
+42 even
+51 odd
